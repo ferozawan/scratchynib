@@ -1,0 +1,149 @@
+@import url(./fonts.css);
+body{
+    margin: 0;
+    padding: 0;
+}
+.btn-primary{
+    color: black;
+    background-color: transparent;
+    border: 2px solid black;
+    width: 162px;
+    height: 45px;
+}
+.btn-primary:hover{
+    color: #fff;
+    background-color: black;
+    transition: all 0.5s ease;
+}
+.btn-secondary{
+    color: #828282;
+    background-color: transparent;
+    border: 2px solid #828282;
+}
+.btn-secondary:hover{
+    color: white;
+    background-color: #828282;
+    transition: all 0.5s ease;
+}
+.nav-item{
+    font-size: 14px;
+    font-family: 'livory-bold';
+}
+.hero-para{
+    font-family: 'livory-regitalic';
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    line-height: 40px;
+}
+.subhero-para{
+    font-family: 'livory' !important;
+    color: #333333CC;
+    letter-spacing: 1px;
+}
+
+.featured-post-heading{
+    color: #9A3C3F;
+}
+.featured-post-link{
+    color: #9A3C3F;
+    text-decoration: none;
+}
+.featured-post-date{
+    font-size: 13px;
+    color: #333333CC;
+}
+
+.latest-heading{
+    color: #9A3C3F;
+    font-family: 'livory';
+    letter-spacing: 1px;
+}
+.latest-date{
+    color: #333333CC;
+    font-size: 13px;
+}
+
+.brushes-para{
+    font-family: 'livory';
+}
+.brushes-link{
+    color: #9A3C3F !important;
+}
+.about-para{
+    font-size: 12px;
+    color: #333333CC;
+}
+footer{
+    color: #BBBBBB;
+    background-color: #222222;
+}
+.footer-para{
+    font-size: 13px;
+}
+.footer-link{
+    color: #EEEEEE !important;
+}
+
+
+@media screen and (max-width:576px){
+    .insta-pic-div{
+        width: 80%;
+    }
+    .insta-image{
+        width: 80%;
+    }
+    .featured-in-link{
+        font-size: 9px;
+        list-style: none;
+    }
+}
+
+@media (max-width: 991.98px) {
+    /* Dark background for smaller screens */
+    .navbar {
+      background-color: black; /* Change to your preferred dark color */
+    }
+    .nav-link {
+        color: #fff !important;
+    }
+    .navbar-toggler{
+        background-color: #fff !important;
+    }
+}
+
+/* 
+#################################### 
+#             ABOUT US PAGE        #
+#################################### */
+.about-social-icon{
+    color: black !important;
+}
+.about-social-icon:hover{
+    color: #828282 !important;
+}
+.sub-about-para{
+    font-size: 12px;
+    color: #333333CC;
+}
+.work-head{
+    color: #9A3C3F;
+}
+.carouselExample{
+    width: 525px;
+    position: relative;
+}
+.carousel-item{
+    width: 525px;
+}
+.carousel-inner{
+    width: 525px;
+}
+.carousel-control-prev{
+    position: absolute;
+    left: 19.5rem;   
+}
+.carousel-control-next{
+    position: absolute;
+    right: 19.5rem;
+}
+

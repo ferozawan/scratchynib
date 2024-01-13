@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'livory';
+    src: url("../fonts/hvdtrial-livory-regular.otf") format("otf");
+}
+@font-face {
+    font-family: 'livory-bold';
+    src: url("../fonts/hvdtrial-livory-bold.otf") format("otf");
+}
+@font-face {
+    font-family: 'livory-bolditalic';
+    src: url('../fonts/hvdtrial-livory-bolditalic.otf') format("otf");
+}
+@font-face {
+    font-family: 'livory-regitalic';
+    src: url('../fonts/hvdtrial-livory-regularitalic.otf') format("otf");
+}
+@font-face {
+    font-family: 'hypatia';
+    src: url('../fonts/HypatiaSansPro-Regular.otf') format('otf');
+}
+@font-face {
+    font-family: 'hypatia-bold';
+    src: url('../fonts/HypatiaSansPro-Bold.otf') format('otf');
+}
+@font-face {
+    font-family: 'hypatia-semibold';
+    src: url('../fonts/HypatiaSansPro-Semibold.otf') format('otf');
+}
+@font-face {
+    font-family: 'hypatia-black';
+    src: url('../fonts/HypatiaSansPro-Black.otf') format('otf');
+}
+@font-face {
+    font-family: 'hypatia-light';
+    src: url('../fonts/HypatiaSansPro-Light.otf') format('otf');
+}
+@font-face {
+    font-family: 'hypatia-extralight';
+    src: url('../fonts/HypatiaSansPro-ExtraLight.otf') format('otf');
+}
